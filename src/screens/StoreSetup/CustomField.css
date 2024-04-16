@@ -1,0 +1,26 @@
+/* CustomInputField.css */
+.custom-input-container {
+    display: flex;
+    background-color: #F9FAFB;
+    height: 44px;
+    width: 360px;
+    border-radius: 5px;
+    border: 1px solid #D0D5DD;
+  }
+  
+  .placeholder-input {
+    flex: 1;
+    border: none;
+    padding: 10px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+  }
+  
+  .text-on-right {
+    background-color: #ffffff;
+    border:1px solid #D0D5DD;
+    padding: 10px;
+    border-radius: 0 4px 4px 0;
+    /* margin-left: 1px; */
+  }
+  
